@@ -1,0 +1,11 @@
+c:\users\khoi.le\Source\Repos\IdentityExample\IdentityApp\bin\Debug\netcoreapp2.0\IdentityApp.deps.json
+c:\users\khoi.le\Source\Repos\IdentityExample\IdentityApp\bin\Debug\netcoreapp2.0\IdentityApp.runtimeconfig.json
+c:\users\khoi.le\Source\Repos\IdentityExample\IdentityApp\bin\Debug\netcoreapp2.0\IdentityApp.runtimeconfig.dev.json
+c:\users\khoi.le\Source\Repos\IdentityExample\IdentityApp\bin\Debug\netcoreapp2.0\IdentityApp.dll
+c:\users\khoi.le\Source\Repos\IdentityExample\IdentityApp\obj\Debug\netcoreapp2.0\IdentityApp.csprojResolveAssemblyReference.cache
+c:\users\khoi.le\Source\Repos\IdentityExample\IdentityApp\obj\Debug\netcoreapp2.0\IdentityApp.csproj.CoreCompileInputs.cache
+c:\users\khoi.le\Source\Repos\IdentityExample\IdentityApp\obj\Debug\netcoreapp2.0\IdentityApp.AssemblyInfoInputs.cache
+c:\users\khoi.le\Source\Repos\IdentityExample\IdentityApp\obj\Debug\netcoreapp2.0\IdentityApp.AssemblyInfo.cs
+c:\users\khoi.le\Source\Repos\IdentityExample\IdentityApp\bin\Debug\netcoreapp2.0\IdentityApp.pdb
+c:\users\khoi.le\Source\Repos\IdentityExample\IdentityApp\obj\Debug\netcoreapp2.0\IdentityApp.dll
+c:\users\khoi.le\Source\Repos\IdentityExample\IdentityApp\obj\Debug\netcoreapp2.0\IdentityApp.pdb
